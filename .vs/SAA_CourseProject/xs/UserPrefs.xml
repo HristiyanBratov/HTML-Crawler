@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{08630ABE-47E1-406F-9CD3-B6CCE88C74CC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SAA__CourseProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SAA_CourseProject/HtmlParser.cs">
+    <Files>
+      <File FileName="SAA_CourseProject/Program.cs" Line="6" Column="23" />
+      <File FileName="SAA_CourseProject/HtmlParser.cs" Line="143" Column="1" />
+      <File FileName="SAA_CourseProject/Tree.cs" Line="1" Column="1" />
+      <File FileName="SAA_CourseProject/TreeNode.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SAA_CourseProject" expanded="True">
+            <Node name="SAA_CourseProject" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

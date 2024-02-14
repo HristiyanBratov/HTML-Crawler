@@ -1,0 +1,15 @@
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/bin/Debug/net7.0/SAA_CourseProject
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/bin/Debug/net7.0/SAA_CourseProject.deps.json
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/bin/Debug/net7.0/SAA_CourseProject.runtimeconfig.json
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/bin/Debug/net7.0/SAA_CourseProject.dll
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/bin/Debug/net7.0/SAA_CourseProject.pdb
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.csproj.AssemblyReference.cache
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.AssemblyInfoInputs.cache
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.AssemblyInfo.cs
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.csproj.CoreCompileInputs.cache
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.dll
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/refint/SAA_CourseProject.dll
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.pdb
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/SAA_CourseProject.genruntimeconfig.cache
+/Users/bratovhristiyan/Desktop/SAA_CourseProject/SAA_CourseProject/obj/Debug/net7.0/ref/SAA_CourseProject.dll

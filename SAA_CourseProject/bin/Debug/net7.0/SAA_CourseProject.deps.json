@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SAA_CourseProject/1.0.0": {
+        "runtime": {
+          "SAA_CourseProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SAA_CourseProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
